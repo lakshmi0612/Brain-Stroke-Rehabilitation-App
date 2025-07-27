@@ -8,7 +8,7 @@ import os
 
 app = FastAPI()
 
-GEMINI_API_KEY = "AIzaSyDOc57VVboRw3FZUKh95yehTjOW0whzZNw"
+GEMINI_API_KEY = "Your API KEY"
 llm = GoogleGenerativeAI(model="gemini-1.5-flash", api_key=GEMINI_API_KEY)
 
 prompt_template = PromptTemplate(
