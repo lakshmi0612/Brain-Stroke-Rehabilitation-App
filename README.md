@@ -16,6 +16,7 @@ News Feed: Fetches daily health articles via a News API to promote cognitive eng
 Reneuw leverages a FastAPI backend and MongoDB Atlas for scalable data management, ensuring secure, real-time health tracking and a seamless user experience.
 
 
+
 ## 🛠 Tech Stack
 
 | *Layer*        | *Tools/Frameworks*              |
